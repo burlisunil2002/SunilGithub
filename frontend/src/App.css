@@ -1,0 +1,10 @@
+.footer
+{
+bottom: 0;
+position: fixed;
+background-color: black;
+text-align: center;
+color: rgba(255, 255, 255, 0.76);
+width: 100%;
+line-height: 20px;
+}
